@@ -16,7 +16,6 @@ patbenatar.advanced-new-file
 pnp.polacode
 quicktype.quicktype
 rebornix.ruby
-rust-lang.rust
 shanoor.vscode-nginx
 skyapps.fish-vscode
 timonwong.shellcheck
