@@ -26,7 +26,7 @@ set -U fish_pager_color_description B3A06D yellow
 set -U fish_pager_color_prefix white --bold --underline
 set -U fish_pager_color_progress brwhite --background=cyan
 
-set -Ux EDITOR vim
+set -Ux EDITOR nano
 set -Ux VISUAL $EDITOR
 set -Ux WEDITOR code
 
